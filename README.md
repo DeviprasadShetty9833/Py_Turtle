@@ -25,7 +25,7 @@
 
 Turtle is a Python module that provides a drawing board like feature, which enables users to create pictures and shapes.
 
-| [![Compiler](https://img.shields.io/badge/🐢_Compiler-Python_Sandbox-A52A2A?style=for-the-badge&logo=turtle&logoColor=white)](https://pythonsandbox.com/turtle)  |
+| [![Compiler](https://img.shields.io/badge/🐢_Compiler-Python_Sandbox-34A853?style=for-the-badge&logo=turtle&logoColor=white)](https://pythonsandbox.com/turtle)  |
 |---|
 
 *Code:*
