@@ -24,3 +24,16 @@
 # Turtle
 
 Turtle is a Python module that provides a drawing board like feature, which enables users to create pictures and shapes.
+
+*Code:*
+```python
+import turtle
+
+turtle.forward(100)  # moves the pen in the forward direction by 100 pixels
+
+turtle.left(110)  # changes the direction of the pen by 10 degrees in the left direction
+
+turtle.forward(110)  # moves the pen forward in  the new direction by 110 pixels
+```
+
+
